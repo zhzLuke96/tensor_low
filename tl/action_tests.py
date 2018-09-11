@@ -1,5 +1,5 @@
-from tansor import Graph, Variable, placeholder, Session
-from tansor.Activation import sigmoid, softmax
+from tensor import Graph, Variable, placeholder, Session
+from tensor.Activation import sigmoid, softmax
 
 
 if __name__ == '__main__':

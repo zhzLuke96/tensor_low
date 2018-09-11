@@ -1,4 +1,4 @@
-from tansor import Graph, Variable, Operation, placeholder, Session, get_default
+from tensor import Graph, Variable, Operation, placeholder, Session, get_default
 
 __all__ = ("add", "matmul")
 

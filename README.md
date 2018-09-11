@@ -4,7 +4,7 @@ tansor/ENN/slow From Scratch
 tkx: [deepideas](http://www.deepideas.net)
 
 # todos
-- [x] tansor
+- [x] tensor
 - [ ] perceptron
 - [ ] MLP
 - [ ] Node_NET
